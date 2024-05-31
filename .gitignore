@@ -1,0 +1,11 @@
+#Backend
+backend/node_modules
+backend/.env
+backend/upload
+#Frontend
+
+
+# Resume Parsing
+
+/web-scraping/linkedin-pdf-parsing/*
+/web-scraping/__pycache__/*
